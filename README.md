@@ -28,7 +28,7 @@ Maps made for the #30DayMapChallenge started by [Topi Tjukanov](https://github.c
 | 13        | **Water** |  Water bodies and rivers of Wales                      | ![Example](https://github.com/JoeWDavies/30DayMapChallenge/raw/main/2020/wales_water.png) | 
 | 13        | **Movement** |  REGL animation of GEOSTAT population grid                    | ![Example](https://github.com/JoeWDavies/30DayMapChallenge/raw/main/2020/regl-population-animation.gif) | 
 | 13        | **Boundaries** | A new perspective of European statistical levels                       | ![Example](https://github.com/JoeWDavies/30DayMapChallenge/raw/main/2020/nuts-perspective.gif) | 
-| 13        | **Elevation** |  Copernicus DEM data for Iceland                       | ![Example](https://github.com/JoeWDavies/30DayMapChallenge/raw/main/2020/iceland.jpeg) | 
+| 13        | **Elevation** |  Norweigan Atlantic Volcanic island of Jan Mayen. Visualized using qgis2threejs                       | ![Example](https://github.com/JoeWDavies/30DayMapChallenge/raw/main/2020/jan_mayen.gif) | 
 | 13        | **COVID-19** |  Evolution of deaths attributable to COVID-19 over time                       | ![Example](https://github.com/JoeWDavies/30DayMapChallenge/raw/main/2020/covid-deaths.gif) | 
 | 13        | **New Tool** |  Blender                      | ![Example](https://github.com/JoeWDavies/30DayMapChallenge/raw/main/2020/blender_full_color.png) | 
 | 13        | **Big Data** |  Internets speeds around the world                    | ![Example](https://github.com/JoeWDavies/30DayMapChallenge/raw/main/2020/ookla_robinson_2020.jpg) | 
