@@ -19,9 +19,9 @@ Maps made for the #30DayMapChallenge started by [Topi Tjukanov](https://github.c
 | 12        | **Not made with GIS software** |  Map of Spain, made of the typical foods in each region                       | ![Example](https://github.com/JoeWDavies/30DayMapChallenge/raw/main/2020/food.jpeg) | 
 | 13        | **Raster** |  Copernicus DEM data for Iceland                       | ![Example](https://github.com/JoeWDavies/30DayMapChallenge/raw/main/2020/iceland.png) | 
 | 13        | **Climate Change** |  Coral bleaching observations                       | ![Example](https://github.com/JoeWDavies/30DayMapChallenge/raw/main/2020/coral_bleaching.png) | 
-| 13        | **Connections** |  OSM road data of Spain                       | ![Example](https://github.com/JoeWDavies/30DayMapChallenge/raw/main/2020/spain_roads.jpeg) | 
-| 13        | **Island** |  Largest island on a lake on an island on a lake on an island...                       | ![Example](https://github.com/JoeWDavies/30DayMapChallenge/raw/main/2020/island_lake_island_lake_island.jpeg) | 
-| 13        | **Historical** |  Map of Roman roads                      | ![Example](https://github.com/JoeWDavies/30DayMapChallenge/raw/main/2020/roman2c.jpeg) | 
+| 13        | **Connections** |  OSM road data of Spain                       | ![Example](https://github.com/JoeWDavies/30DayMapChallenge/raw/main/2020/spain_roads.jpg) | 
+| 13        | **Island** |  Largest island on a lake on an island on a lake on an island...                       | ![Example](https://github.com/JoeWDavies/30DayMapChallenge/raw/main/2020/island_lake_island_lake_island.jpg) | 
+| 13        | **Historical** |  Map of Roman roads                      | ![Example](https://github.com/JoeWDavies/30DayMapChallenge/raw/main/2020/roman2c.png) | 
 | 13        | **Landuse** |  Corine land cover                     | ![Example](https://github.com/JoeWDavies/30DayMapChallenge/raw/main/2020/WalesCorine.jpeg) | 
 | 13        | ***NULL*** |  'unclassified' roads in wales according to OSM                     | ![Example](https://github.com/JoeWDavies/30DayMapChallenge/raw/main/2020/NULL.jpeg) | 
 | 13        | **Population** |  European popualtion grid                     | ![Example](https://github.com/JoeWDavies/30DayMapChallenge/raw/main/2020/gridviz.gif) | 
