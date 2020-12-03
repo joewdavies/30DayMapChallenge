@@ -13,5 +13,5 @@ Maps made for the #30DayMapChallenge started by Topi Tjukanov
 | 3        | **Yellow** | Ridgeline plot elevation map of South America                        | ![Example](https://github.com/JoeWDavies/30DayMapChallenge/raw/main/2020/south_america_ridgeline_plot.png) | 
 | 3        | **Monochrome**| Every building in central Madrid                        | ![Example](https://github.com/JoeWDavies/30DayMapChallenge/raw/main/2020/monochrome_madrid.jpeg) | 
 | 3        | **Grid**  | European population grid using gridviz.js                      | ![Example](https://github.com/JoeWDavies/30DayMapChallenge/raw/main/2020/gridviz_grid.jpeg) | 
-| 3        | **3D** |                        | ![Example](https://github.com/JoeWDavies/30DayMapChallenge/raw/main/2020/madrid_lidar.gif) | 
-| 3        | **Not made with GIS software** |                         | ![Example](https://github.com/JoeWDavies/30DayMapChallenge/raw/main/2020/food.jpeg) | 
+| 3        | **3D** | LiDAR data of 'El Palacio Real' in Madrid                       | ![Example](https://github.com/JoeWDavies/30DayMapChallenge/raw/main/2020/madrid_lidar.gif) | 
+| 3        | **Not made with GIS software** |  Map of Spain, made of the typical foods in each region                       | ![Example](https://github.com/JoeWDavies/30DayMapChallenge/raw/main/2020/food.jpeg) | 
