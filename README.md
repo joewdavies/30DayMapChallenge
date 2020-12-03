@@ -7,8 +7,8 @@ Maps made for the #30DayMapChallenge, which was started by [Topi Tjukanov](https
 | ---------------------------------- | ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
  | **Points** | Animated population grid as webGL points using regl                      | ![Example](https://github.com/JoeWDavies/30DayMapChallenge/raw/main/2020/points_animated.gif) |
 | **Lines** | 5km population grid using d3 ridgeline plots                       | ![Example](https://github.com/JoeWDavies/30DayMapChallenge/raw/main/2020/5km_population_ridgeline.jpeg) |
-| **Polygons** | Time-series animation of population change in europe using eurostat-map.js                       | ![Example](https://github.com/JoeWDavies/30DayMapChallenge/blob/main/2020/population_choropleth.gif) | 
-| **Hexagons**  | Welsh-speaking schools                      | ![Example](https://github.com/JoeWDavies/30DayMapChallenge/blob/main/2020/welsh_schools.png) | 
+| **Polygons** | Time-series animation of population change in europe using eurostat-map.js                       | ![Example](https://github.com/JoeWDavies/30DayMapChallenge/raw/main/2020/population_choropleth.gif) | 
+| **Hexagons**  | Welsh-speaking schools                      | ![Example](https://github.com/JoeWDavies/30DayMapChallenge/raw/main/2020/welsh_schools.png) | 
 | **Blue**  | Hydroelectric power plants across the world                      | ![Example](https://github.com/JoeWDavies/30DayMapChallenge/raw/main/2020/hydro_blue.jpeg) | 
  | **Red**  | Map of OSM road data for Cardiff                      | ![Example](https://github.com/JoeWDavies/30DayMapChallenge/raw/main/2020/cardiff_red.png) | 
  | **Green** | Sustainable energy power plant locations (wind, solar, biomass)                       | ![Example](https://github.com/JoeWDavies/30DayMapChallenge/raw/main/2020/renewable_energy_green.jpeg) | 
