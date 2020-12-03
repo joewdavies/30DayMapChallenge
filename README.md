@@ -1,5 +1,5 @@
 # 30DayMapChallenge
-Maps made for the #30DayMapChallenge started by [Topi Tjukanov](https://github.com/tjukanovt/30DayMapChallenge).
+Maps made for the #30DayMapChallenge, which was started by [Topi Tjukanov](https://github.com/tjukanovt/30DayMapChallenge).
 
 ## 2020
 
