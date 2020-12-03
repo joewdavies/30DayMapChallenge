@@ -22,7 +22,7 @@ Maps made for the #30DayMapChallenge started by [Topi Tjukanov](https://github.c
 | 13        | **Connections** |  OSM road data of Spain                       | ![Example](https://github.com/JoeWDavies/30DayMapChallenge/raw/main/2020/spain_roads.jpg) | 
 | 13        | **Island** |  Largest island on a lake on an island on a lake on an island...                       | ![Example](https://github.com/JoeWDavies/30DayMapChallenge/raw/main/2020/island_lake_island_lake_island.jpg) | 
 | 13        | **Historical** |  Map of Roman roads                      | ![Example](https://github.com/JoeWDavies/30DayMapChallenge/raw/main/2020/roman2c.png) | 
-| 13        | **Landuse** |  Corine land cover                     | ![Example](https://github.com/JoeWDavies/30DayMapChallenge/raw/main/2020/walesCorine.jpg) | 
+| 13        | **Landuse** |  Corine land cover                     | ![Example](https://github.com/JoeWDavies/30DayMapChallenge/raw/main/2020/walesCorine.JPG) | 
 | 13        | ***NULL*** |  'unclassified' roads in wales according to OSM                     | ![Example](https://github.com/JoeWDavies/30DayMapChallenge/raw/main/2020/NULL.jpeg) | 
 | 13        | **Population** |  European popualtion grid                     | ![Example](https://github.com/JoeWDavies/30DayMapChallenge/raw/main/2020/gridviz.gif) | 
 | 13        | **Water** |  Water bodies and rivers of Wales                      | ![Example](https://github.com/JoeWDavies/30DayMapChallenge/raw/main/2020/wales_water.png) | 
