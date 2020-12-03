@@ -14,7 +14,7 @@ Maps made for the #30DayMapChallenge started by [Topi Tjukanov](https://github.c
 | 7        | **Green** | Sustainable energy power plant locations (wind, solar, biomass)                       | ![Example](https://github.com/JoeWDavies/30DayMapChallenge/raw/main/2020/renewable_energy_green.jpeg) | 
 | 8        | **Yellow** | Ridgeline plot elevation map of South America                        | ![Example](https://github.com/JoeWDavies/30DayMapChallenge/raw/main/2020/south_america_ridgeline_plot.png) | 
 | 9        | **Monochrome**| Every building in central Madrid                        | ![Example](https://github.com/JoeWDavies/30DayMapChallenge/raw/main/2020/monochrome_madrid.jpeg) | 
-| 10        | **Grid**  | European population grid using gridviz.js                      | ![Example](https://github.com/JoeWDavies/30DayMapChallenge/raw/main/2020/gridviz_grid.jpeg) | 
+| 10        | **Grid**  | European population grid using [gridviz.js](https://github.com/eurostat/gridviz)                      | ![Example](https://github.com/JoeWDavies/30DayMapChallenge/raw/main/2020/gridviz_grid.jpeg) | 
 | 11        | **3D** | LiDAR data of 'El Palacio Real' in Madrid                       | ![Example](https://github.com/JoeWDavies/30DayMapChallenge/raw/main/2020/madrid_lidar.gif) | 
 | 12        | **Not made with GIS software** |  Map of Spain, made of the typical foods in each region                       | ![Example](https://github.com/JoeWDavies/30DayMapChallenge/raw/main/2020/food.jpeg) | 
 | 13        | **Raster** |  Copernicus DEM data for Iceland                       | ![Example](https://github.com/JoeWDavies/30DayMapChallenge/raw/main/2020/iceland.png) | 
@@ -24,7 +24,7 @@ Maps made for the #30DayMapChallenge started by [Topi Tjukanov](https://github.c
 | 13        | **Historical** |  Map of Roman roads                      | ![Example](https://github.com/JoeWDavies/30DayMapChallenge/raw/main/2020/roman2c.png) | 
 | 13        | **Landuse** |  Corine land cover of Wales. [Source](https://ec.europa.eu/eurostat/statistical-atlas/gis/viewer/)                     | ![Example](https://github.com/JoeWDavies/30DayMapChallenge/raw/main/2020/walesCorine.JPG) | 
 | 13        | ***NULL*** |  'unclassified' roads in wales according to OSM                     | ![Example](https://github.com/JoeWDavies/30DayMapChallenge/raw/main/2020/NULL.jpeg) | 
-| 13        | **Population** |  European popualtion grid                     | ![Example](https://github.com/JoeWDavies/30DayMapChallenge/raw/main/2020/gridviz.gif) | 
+| 13        | **Population** |  European popualtion grid colour interpolation using [gridviz.js](https://github.com/eurostat/gridviz) and [d3-scale-chromatic](https://github.com/eurostat/d3-scale-chromatic)                    | ![Example](https://github.com/JoeWDavies/30DayMapChallenge/raw/main/2020/gridviz.gif) | 
 | 13        | **Water** |  Water bodies and rivers of Wales                      | ![Example](https://github.com/JoeWDavies/30DayMapChallenge/raw/main/2020/wales_water.png) | 
 | 13        | **Movement** |  REGL animation of GEOSTAT population grid                    | ![Example](https://github.com/JoeWDavies/30DayMapChallenge/raw/main/2020/regl-population-animation.gif) | 
 | 13        | **Boundaries** | A new perspective of European statistical levels                       | ![Example](https://github.com/JoeWDavies/30DayMapChallenge/raw/main/2020/nuts-perspective.gif) | 
