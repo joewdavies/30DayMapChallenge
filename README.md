@@ -32,6 +32,6 @@ Maps made for the #30DayMapChallenge, which was started by [Topi Tjukanov](https
 | **COVID-19** |  Evolution of deaths attributable to COVID-19 over time                       | ![Example](https://github.com/JoeWDavies/30DayMapChallenge/raw/main/2020/covid-deaths.gif) | 
 | **New Tool** |  Blender                      | ![Example](https://github.com/JoeWDavies/30DayMapChallenge/raw/main/2020/blender_full_color.png) | 
 | **Big Data** |  Internets speeds around the world                    | ![Example](https://github.com/JoeWDavies/30DayMapChallenge/raw/main/2020/ookla_robinson_2020.jpg) | 
-| **Non-geographic** |  Emoji map of Spain                     | ![Example](https://github.com/JoeWDavies/30DayMapChallenge/raw/main/2020/emoji.png) | 
-| **Globe** |  Earthquakes from the past 30 days                      | ![Example](https://github.com/JoeWDavies/30DayMapChallenge/raw/main/2020/earthquakes.gif) | 
+| **Non-geographic** |  Emoji map of Spain                     | ![Example](https://github.com/JoeWDavies/30DayMapChallenge/raw/main/2020/emoji_map.png) | 
+| **Globe** |  Earthquakes from the past 30 days - [code](https://observablehq.com/@joewdavies/earthquakes-from-the-last-30-days)                      | ![Example](https://github.com/JoeWDavies/30DayMapChallenge/raw/main/2020/earthquakes.gif) | 
 | **A Map** |  Wheat production in Europe                   | ![Example](https://github.com/JoeWDavies/30DayMapChallenge/raw/main/2020/wheat-production.png) | 
